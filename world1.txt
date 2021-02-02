@@ -1,3 +1,7 @@
 hello world!
+<<<<<<< HEAD
 
 Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+=======
+hello world!
+>>>>>>> 2b20d5ce308fd10e4cd44536080b7ba39f4bc65e
